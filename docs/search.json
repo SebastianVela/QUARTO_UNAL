@@ -9,36 +9,36 @@
   {
     "objectID": "Articulos.html",
     "href": "Articulos.html",
-    "title": "Presentaciones",
+    "title": "Articulos",
     "section": "",
-    "text": "Presentaciones\nThis is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2"
+    "text": "Articulos"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Web_Quarto_Unal",
+    "title": "Proyecto Quarto UNAL",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Este proyecto es creado para la divulgación sobre como crear todo tipo de documentos en Quarto."
   },
   {
     "objectID": "Libros.html",
     "href": "Libros.html",
-    "title": "Presentaciones",
+    "title": "Libros",
     "section": "",
-    "text": "Presentaciones\nThis is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2"
+    "text": "Libros"
   },
   {
     "objectID": "Paginas_Web.html",
     "href": "Paginas_Web.html",
-    "title": "Presentaciones",
+    "title": "Páginas Web",
     "section": "",
-    "text": "Presentaciones\nThis is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2"
+    "text": "Páginas Web"
   },
   {
     "objectID": "Presentaciones.html",
     "href": "Presentaciones.html",
     "title": "Presentaciones",
     "section": "",
-    "text": "Presentaciones\nThis is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2"
+    "text": "Presentaciones"
   }
 ]
