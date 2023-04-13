@@ -5,10 +5,9 @@ project:
 book:
   title: "Proyecto Quarto UNAL"
   author: "Dirección Nacional de Planeación y Estadística"
-  
+  sidebar:
+    logo: 'Imagenes/Logos/Logo_UNAL.png'
 
-sidebar:
-  logo: 'Imagenes/Logos/Logo_UNAL.png'
 
   chapters:
     - index.qmd

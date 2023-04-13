@@ -4,6 +4,8 @@ This is a Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
+link: [link](https://quarto.org/docs/books){target="_blank"}
+
 ```{r}
-1 + 1
+1 + 1 + 1
 ```
