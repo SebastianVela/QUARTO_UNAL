@@ -1,11 +1,11 @@
-# Preface {.unnumbered}
+---
+title: "Web_Quarto_Unal"
+---
 
-This is a Quarto book.
+This is a Quarto website.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-link: [link](https://quarto.org/docs/books){target="_blank"}
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-1 + 1 + 1
+1 + 1
 ```
