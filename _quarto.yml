@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Proyecto Quarto UNAL"
-  favicon: 'Imagenes/Logos/Logo_UNAL.png'
+  favicon: 'Imagenes/Logos/Escudo_UNAL.png'
   reader-mode: true
   navbar:
     logo: 'Imagenes/Logos/Logo_UNAL.png'
@@ -24,7 +24,7 @@ website:
         file: Articulos.qmd
     right:
       - icon: github
-        href: https://github.com/estadisticaun/BoletinNacional
+        href: https://github.com/estadisticaun
         aria-label: GitHub
       - icon: youtube
         href: https://www.youtube.com/@UNALoficial
